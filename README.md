@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ankitm33
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, WordPress
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ankitmishra2k15@gmail.com
 
 <!---
